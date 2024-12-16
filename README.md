@@ -1,6 +1,6 @@
-# speeCognition: Fast and Accurate Speech-to-Text
+# Fast and Accurate Speech-to-Text
 
-speeCognition is a Python application that leverages the power of OpenAI's Whisper model to perform fast and accurate transcription from audio files.
+SpeeCognition is a Python application that leverages the power of OpenAI's Whisper model to perform fast and accurate transcription from audio files.
 
 ## Estructura del proyecto
 
